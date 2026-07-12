@@ -9,7 +9,7 @@ git clone https://github.com/brdyamhrany-debug/run-nmap-to-termux
 
 ls
 
-cd nmap_pro
+cd run-nmap-to-termux
 
 ./menu.sh
 
